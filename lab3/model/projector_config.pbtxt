@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "mnist_embedding:0"
+  metadata_path: "/Users/ql/EasyStack/tensorflow.studio/tensorflow-labs/lab3/mnist_projector/labels_1024.tsv"
+  sprite {
+    image_path: "/Users/ql/EasyStack/tensorflow.studio/tensorflow-labs/lab3/mnist_projector/sprite_1024.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
